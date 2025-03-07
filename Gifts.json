@@ -1,6 +1,390 @@
 [
+       {
+            "gift": "Un journée manucure et coiffeur",
+            "rarity": "3"
+        },
         {
-            "gift": "Un voyage au japon",
+            "gift": "une journée de détente au spa",
+            "rarity": "3"
+        },
+        {
+            "gift": "un bisou passionné",
+            "rarity": "0"
+        },
+        {
+            "gift": "un bisou passionné",
+            "rarity": "0"
+        },
+        {
+            "gift": "un bisou passionné",
+            "rarity": "0"
+        },
+        {
+            "gift": "un bisou passionné",
+            "rarity": "0"
+        },
+        {
+            "gift": "un câlin réconfortant",
+            "rarity": "0"
+        },
+        {
+            "gift": "un câlin réconfortant",
+            "rarity": "0"
+        },
+        {
+            "gift": "un câlin réconfortant",
+            "rarity": "0"
+        },
+        {
+            "gift": "un câlin réconfortant",
+            "rarity": "0"
+        },
+        {
+            "gift": "une soirée jeux de société",
+            "rarity": "2"
+        },
+        {
+            "gift": "une soirée jeux de société",
+            "rarity": "2"
+        },
+        {
+            "gift": "une soirée cinéma",
+            "rarity": "2"
+        },
+        {
+            "gift": "une soirée cinéma",
+            "rarity": "2"
+        },
+        {
+            "gift": "un massage relaxant",
+            "rarity": "1"
+        },
+        {
+            "gift": "un massage relaxant",
+            "rarity": "1"
+        },
+        {
+            "gift": "un massage relaxant",
+            "rarity": "1"
+        },
+        {
+            "gift": "Voyage au Japon",
             "rarity": "6"
         },
+        {
+            "gift": "Voyage au Portugal",
+            "rarity": "6"
+        },
+        {
+            "gift": "Complimenter Luis",
+            "rarity": "5"
+        },
+        {
+            "gift": "Complimenter Luis",
+            "rarity": "5"
+        },
+        {
+            "gift": "Complimenter Luis",
+            "rarity": "5"
+        },
+        {
+            "gift": "Faire un cadeau a Luis",
+            "rarity": "5"
+        },
+        {
+            "gift": "Faire un cadeau a Luis",
+            "rarity": "5"
+        },
+        {
+            "gift": "Un macdo en amoureux",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un macdo en amoureux",
+            "rarity": "0"
+        },
+        {
+            "gift": "Cadeau chez un createur",
+            "rarity": "3"
+        },
+        {
+            "gift": "Cadeau chez un createur",
+            "rarity": "3"
+        },
+        {
+            "gift": "Un Bijou",
+            "rarity": "4"
+        },
+        {
+            "gift": "Un compliment",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un compliment",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un compliment",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un compliment",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un paire de chaussure",
+            "rarity": "4"
+        },
+        {
+            "gift": "Commande en ligne gratuite",
+            "rarity": "6"
+        },
+        {
+            "gift": "Commande Uber gratuite",
+            "rarity": "3"
+        },
+        {
+            "gift": "Commande Uber gratuite",
+            "rarity": "3"
+        },
+        {
+            "gift": "Commande Uber gratuite",
+            "rarity": "3"
+        },
+        {
+            "gift": "une nuit inoubliable",
+            "rarity": "3"
+        },
+        {
+            "gift": "une nuit inoubliable",
+            "rarity": "3"
+        },
+        {
+            "gift": "une nuit inoubliable",
+            "rarity": "3"
+        },
+        {
+            "gift": "un massage sensuel",
+            "rarity": "3"
+        },
+        {
+            "gift": "un massage sensuel",
+            "rarity": "3"
+        },
+        {
+            "gift": "un striptease",
+            "rarity": "6"
+        },
+        {
+            "gift": "une journée de shopping",
+            "rarity": "2"
+        },
+        {
+            "gift": "une journée de shopping",
+            "rarity": "2"
+        },
+        {
+            "gift": "une journée de shopping",
+            "rarity": "2"
+        },
+        {
+            "gift": "Un resto",
+            "rarity": "1"
+        },
+        {
+            "gift": "Un resto",
+            "rarity": "1"
+        },
+        {
+            "gift": "Un resto",
+            "rarity": "1"
+        },
+        {
+            "gift": "Une soiree openbar",
+            "rarity": "2"
+        },
+        {
+            "gift": "Une soiree openbar",
+            "rarity": "2"
+        },
+        {
+            "gift": "Une soiree openbar",
+            "rarity": "2"
+        },
+        {
+            "gift": "Un barbecue",
+            "rarity": "2"
+        },
+        {
+            "gift": "Un barbecue",
+            "rarity": "2"
+        },
+        {
+            "gift": "Une game de fortnite",
+            "rarity": "5"
+        },
+        {
+            "gift": "50 EURO",
+            "rarity": "6"
+        },
+        {
+            "gift": "Soiree creation de cocktail",
+            "rarity": "4"
+        },
+        {
+            "gift": "une fessée",
+            "rarity": "5"
+        },
+        {
+            "gift": "une fessée",
+            "rarity": "5"
+        },
+        {
+            "gift": "Seance chez le coiffeur",
+            "rarity": "4"
+        },
+        {
+            "gift": "Seance chez le coiffeur",
+            "rarity": "4"
+        },
+        {
+            "gift": "Je te lisse les cheveux",
+            "rarity": "1"
+        },
+        {
+            "gift": "Je te lisse les cheveux",
+            "rarity": "1"
+        },
+        {
+            "gift": "Je te lisse les cheveux",
+            "rarity": "1"
+        },
+        {
+            "gift": "Je te fais un repas original",
+            "rarity": "1"
+        },
+        {
+            "gift": "Je te fais un repas original",
+            "rarity": "1"
+        },
+        {
+            "gift": "Je te fais un repas original",
+            "rarity": "1"
+        },
+        {
+            "gift": "Je te fais un repas original",
+            "rarity": "1"
+        },
+        {
+            "gift": "Rien",
+            "rarity": "5"
+        },
+        {
+            "gift": "Rien",
+            "rarity": "5"
+        },
+        {
+            "gift": "Rien",
+            "rarity": "5"
+        },
+        {
+            "gift": "Rien",
+            "rarity": "5"
+        },
+        {
+            "gift": "Un check",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un check",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un check",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un check",
+            "rarity": "0"
+        },
+        {
+            "gift": "Une bise",
+            "rarity": "0"
+        },
+        {
+            "gift": "Une bise",
+            "rarity": "0"
+        },
+        {
+            "gift": "Une bise",
+            "rarity": "0"
+        },
+        {
+            "gift": "Une bise",
+            "rarity": "0"
+        },
+        {
+            "gift": "Une glace tout les deux",
+            "rarity": "2"
+        },
+        {
+            "gift": "Une glace tout les deux",
+            "rarity": "2"
+        },
+        {
+            "gift": "Une glace tout les deux",
+            "rarity": "2"
+        },
+        {
+            "gift": "Japonais",
+            "rarity": "2"
+        },
+        {
+            "gift": "Japonais",
+            "rarity": "2"
+        },
+        {
+            "gift": "Japonais",
+            "rarity": "2"
+        },
+        {
+            "gift": "Un skin valorant",
+            "rarity": "3"
+        },
+        {
+            "gift": "Un skin valorant",
+            "rarity": "3"
+        },
+        {
+            "gift": "Je fais 20 pompes",
+            "rarity": "2"
+        },
+        {
+            "gift": "Je fais 20 pompes",
+            "rarity": "2"
+        },
+        {
+            "gift": "Je fais 20 pompes",
+            "rarity": "2"
+        },
+        {
+            "gift": "Un verre ensemble",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un verre ensemble",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un verre ensemble",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un verre ensemble",
+            "rarity": "0"
+        },
+        {
+            "gift": "Un verre ensemble",
+            "rarity": "0"
+        }
 ]
